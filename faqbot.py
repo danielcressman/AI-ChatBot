@@ -1,3 +1,4 @@
+import os
 import nltk 
 nltk.download('punkt')
 
@@ -76,9 +77,17 @@ net = tflearn.regression(net)
 
 model = tflearn.DNN(net)
 
+should_reload = False
 try:
-    model.load("model.tflearn")
-except:
+    if os.path.exists(os.path.abspath("model.tflearn.index")) and os.path.exists(os.path.abspath("model.tflearn.meta")):
+        model.load("model.tflearn")
+    else:
+        should_reload = True
+except BaseException as exc:
+    print(exc.with_traceback)
+    should_reload = True
+
+if should_reload:
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
     model.save("model.tflearn")
 
