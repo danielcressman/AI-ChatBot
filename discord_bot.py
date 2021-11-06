@@ -57,33 +57,13 @@ class MyClient(discord.Client):
 
 
     async def on_message(self, message):
+        if message.author.id == self.user.id:
+            return
 
-################################################################################################################
-############################################ Public Sections ###################################################
-################################################################################################################
-
-        # Check and Make ssure it's' in Basic QA Bot Channel
-        if message.channel.name == 'beginner-questions' or message.channel.name == 'methodology-qa' or message.channel.name == 'language-general' or message.channel.name == 'off-topic':
-            ## make sure not respondding to it's own message
-            if message.author.id == self.user.id:
-                return
-            ## set user to be used in role selection    
-            user = message.author
-            if discord.utils.get(user.roles, name="Admin") is not None or discord.utils.get(user.roles, name="Mod") is not None or discord.utils.get(user.roles, name="Helper") is not None:
+        if message.channel.name in ['beginner-questions', 'methodology-qa', 'language-general', 'off-topic']:
+            if discord.utils.get(message.author.roles, name="Admin") is not None or discord.utils.get(user.roles, name="Mod") is not None or discord.utils.get(user.roles, name="Helper") is not None:
                 if message.content.startswith('!bot'):
-                    ###########################################################################
-                    ####### This get's the correct answer before eventually sending it to chat
-                    ###########################################################################
-                    ##make message but without the ! bot call marker
                     inp = message.content[5:]
-                    ##this is where copy paste from below starts and starts finding answers
-                                        ###########################################################################
-                    ####### This sends the answer collected above as a reply or as a message
-                    ###########################################################################
-                    ## check if message is replying to another user or not
-                    ################################################################################################################
-############################################ Q&A Bot Section ###################################################
-################################################################################################################
                     response, embed = self.get_response_and_embed(inp)
                     reference = message.reference
                     if reference is None:
@@ -92,14 +72,7 @@ class MyClient(discord.Client):
                         await self.send_reply(response, embed, reference.resolved)
             return
 
-        # Check and Make ssure it's' in Basic QA Bot Channel
-        if message.channel.name != '🤖basic-qa-bot':
-            return
-        # we do not want the bot to reply to itself
-        elif message.author.id == self.user.id:
-            return
-
-        else:
+        if message.channel.name == '🤖basic-qa-bot':
             response, embed = self.get_response_and_embed(message.content)  
             if response is not None:
                 await self.send_reply(response, embed, message)
