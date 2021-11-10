@@ -15,7 +15,14 @@
       "patterns": [
         "I'm absolutely new to Mandarin Chinese. Where do I even start",
         "How do I use the Refold method",
-        "I feel overwhelmed!"
+        "I feel overwhelmed!",
+        "Where do I start",
+        "Where do I get started",
+        "How do I start",
+        "How do I get started",
+        "What should I do first",
+        "Where should I start",
+        "How should I start"
       ],
       "responses": [
         "First, go to the #start-here channel in Discord, give yourself the Stage 0 role, and also read through the other messages in that channel to familiarize yourself with our server's events/clubs.Then, start off by reading through the Refold Roadmap.The roadmap explains the various stages of Refold and what you should be doing at each stage. You can read the simplified roadmap to start off with, but at some point you should read the detailed roadmap as well.Next, you'll need to familiarize yourself with Pinyin or Zhuyin (see FAQ #9), tones (see FAQ #4), Anki, etc. (refer to Stage 1 of the Refold Roadmap).Then, start chipping away at the first 1,000 most frequent words via a foundation Anki deck. We recommend this: Refold Mandarin 1k (only choose 1 of the decks, not both -- see FAQ #8 for the difference between Simplified and Traditional Chinese). For grammar, use the Chinese Grammar Wiki.Now, familiarize yourself with the wealth of resources available in our Refold Mandarin Resource Doc and Sheet. Other resources are also available in the Media & Resources section of the Discord. Also, read through this entire FAQ before asking questions on the Discord. We'd love to help you, but chances are your question has already been answered in detail in this FAQ.After you have established a routine with Anki, etc., you can then jump into immersion. Shows like Peppa Pig and Comprehensible Input videos might be very useful in the beginning. Meteor Garden (2018) is often recommended as a slice of life show to watch. However, what immersion material you use is entirely up to you and dependent on your own interests. The Resource Doc and Sheet have other suggestions for beginner immersion."
@@ -25,7 +32,21 @@
       "tag": "3. How long will it take to become fluent",
       "patterns": [
         "How long will it take to become fluent",
-        "How long should I spend immersing each day"
+        "How long should I spend immersing each day",
+        "How long until I am fluent",
+        "How long until I'm fluent",
+        "How long until I become fluent",
+        "How long will it be until I'm fluent",
+        "How long will it be until I am fluent",
+        "When will I be fluent",
+        "When will I reach fluency",
+        "How long does fluency take",
+        "How long does it take to master Chinese",
+        "When will I master Chinese",
+        "How long should I immerse each day",
+        "How much immersion should I do",
+        "How much immersion do I need to do each day",
+        "How much should I immerse to become fluent"
       ],
       "responses": [
         "First, this depends on what you mean by \"fluent.\" This may sound pedantic, but everyone has a different definition of fluency, so it's important to define it. At Refold we define reaching basic fluency at around a B2 level on the CEFR scale. At that point you will be able to converse with others on a variety of topics without having to resort to using English to get your point across or resolve misunderstandings. If you don't know how to say something in Chinese, you'll be able to use Chinese to explain what you mean. You won't know or be able to use every idiom out there and there will still be a ton of words for you to learn, especially from novels and other high-level immersion sources or more specialized domains (science, medicine, etc.). Reaching basic fluency is like getting a black belt in martial arts -- it takes a lot of time and it's a respectable accomplishment, but it's still only the beginning in a life-long journey to true mastery (near-native proficiency in a language learning context).Having said all that, you should know that the more time you spend immersing, the quicker you'll reach your goals. We recommend spending at least 2 hours per day immersing, as we don't know anybody who has reached fluency in a reasonable amount of time with less than 2 hours per day. Based on the FSI estimates, with 2 hours per day of immersion it'd take approximately 3 years to get a solid B2 level of fluency."
@@ -35,7 +56,14 @@
       "tag": "4. What are tones",
       "patterns": [
         "What are tones",
-        "Do I really have to learn them"
+        "Do I really have to learn them",
+        "Do I need to learn tones",
+        "Are tones important",
+        "Are tones necessary",
+        "What is a tone",
+        "Why are tones important",
+        "Can I skip learning tones",
+        "Do I have to learn tones"
       ],
       "responses": [
         "In Mandarin there are 4 tones (plus the neutral tone). Tone is a feature of the language where the pitch you use to pronounce a syllable changes the meaning of that syllable. For example, Ma  is pronounced with the first tone as ma and means \"mother\", Ma  is pronounced with the second tone as ma and means \"hemp\", Ma  is pronounced using the third tone as ma and means \"horse\", Ma  is pronounced using the fourth tone as ma and means \"scold\", Ma  is pronounced using the neutral tone as ma and is a grammatical particle used to ask questions. See this video for a demonstration of the different tones.Yes, you have to learn them. You sometimes will hear foreigners who claim that \"you don't have to learn tones because people will understand you based on the context.\" At times, this is true -- even if you use the wrong tone, people might still understand you. At other times, this is not true and you will not be understood. It is suggested you do not listen to people who tell you that tones aren't important or that you can just ignore tones. 9 times out of 10 these people have poor Mandarin language abilities themselves. Tones are a core part of the language."
@@ -44,7 +72,9 @@
     {
       "tag": "5. Is it true that Chinese grammar is easy",
       "patterns": [
-        "Is it true that Chinese grammar is easy"
+        "Is it true that Chinese grammar is easy",
+        "Is Chinese grammar easy",
+        "Is Chinese grammar like English"
       ],
       "responses": [
         "At the beginning it may seem easy -- no conjugations! No cases! Etc. However once you reach an advanced level, you'll realize that Chinese grammar is not as easy as it once may have seemed. At advanced levels, it's not uncommon to come across essays or novels that are influenced by Wen Yan Wen  (Literary Chinese/Classical Chinese), for example. A lot of Chinese grammar is simplistic but it is not easy. Simple does not necessarily equate with easy, and at times it can even make things a lot harder.People who claim Chinese grammar is easy usually are people who have never reached a truly high level in the language and whose own Chinese grammar is replete with grammatical mistakes, or, far less commonly, are people who have already reached a very high level in the language and have forgotten about the difficult aspects of the grammar because they've been immersed in the language for so long and it's almost second nature to them at this point.Naturally expressing yourself in Chinese will require you to think in a completely different way compared with your native language. Avoid thinking in English/your native language and translating that directly into Chinese in your head when outputting. Do not fall into the trap of \"speaking English using Chinese words.\""
@@ -53,7 +83,10 @@
     {
       "tag": "6. What is the difference between Mandarin and Cantonese",
       "patterns": [
-        "What is the difference between Mandarin and Cantonese"
+        "What is the difference between Mandarin and Cantonese",
+        "Is Mandarin the same thing as Cantonese",
+        "How are Mandarin and Cantonese different",
+        "Are Mandarin and Cantonese the same thing"
       ],
       "responses": [
         "Mandarin is the standard language of Mainland China and Taiwan. Cantonese is primarily spoken in Hong Kong, Macau, and Guangdong Province. For all intents and purposes, they are separate languages with different pronunciation, tones, grammar (to an extent), vocabulary, etc. Formally (like in newspapers), Cantonese is written using Standard Written Chinese which can be read by Mandarin speakers, but informally (like in online chats) written Cantonese is used, which cannot be understood by Mandarin speakers."
@@ -62,7 +95,10 @@
     {
       "tag": "7. What is the difference between Mainland Chinese Mandarin and Taiwanese Mandarin",
       "patterns": [
-        "What is the difference between Mainland Chinese Mandarin and Taiwanese Mandarin"
+        "What is the difference between Mainland Chinese Mandarin and Taiwanese Mandarin",
+        "Should I learn Taiwanese Mandarin or Mainland Chinese Mandarin",
+        "How are Taiwanese and Mainland Chinese Mandarin different",
+        "Are Taiwanese Mandarin and Mainland Chinese Mandarin the same thing"
       ],
       "responses": [
         "There are some tonal differences, a few minor grammatical differences, some differences in vocabulary/word choice, and Taiwanese Mandarin has also received some influence from the Minnan language. Accents between the two tend to differ as well. Having said all that, the two are mutually intelligible, and could perhaps be compared to American English and British English. If you want to consume Mainland Chinese content or live in Mainland China, study Mainland Mandarin, and if you want to consume Taiwanese content or live in Taiwan, study Taiwanese Mandarin to start off with. Once you get to an advanced level, feel free to start consuming content from the opposite region in order to familiarize yourself with the differences, if you want. See this Wiki page for more info on the differences.Also (and this point this has nothing to do with the spoken language), but Mainland China uses Simplified characters while Taiwan uses Traditional characters (see FAQ #8 for more info). Also, there are punctuation differences between Mainland China and Taiwan. See here for more info on that."
@@ -72,7 +108,12 @@
       "tag": "8. What is the difference between Simplified and Traditional Chinese",
       "patterns": [
         "What is the difference between Simplified and Traditional Chinese",
-        "Is it important to learn both, and if not, how do I pick which to learn first"
+        "Is it important to learn both, and if not, how do I pick which to learn first",
+        "Is simplified the same as traditional",
+        "Should I learn simplified characters or traditional",
+        "Should I learn simplified Chinese or traditional",
+        "Should I learn simplified or traditional",
+        "Is simplified better than traditional"
       ],
       "responses": [
         "Simplified Chinese is used in Mainland China, Singapore, and Malaysia. Traditional is used in Taiwan, Hong Kong, and Macao. Simplified Chinese simplified certain characters, typically by reducing the stroke count. For example, \"study\" in Simplified Chinese is written Xue  while in Traditional Chinese it is written as Xue  . The sentence, \"I am a student\" is written in Simplified Chinese as Wo Shi Xue Sheng , and in Traditional Chinese as Wo Shi Xue Sheng  . You can see that most characters are the same, but one is different. This is because not all characters were simplified in Simplified Chinese, only a portion of them were.As you can see, the difference between Simplified and Traditional Chinese only concerns the writing system, and has nothing to do with spoken Mandarin.Start off by only studying the character set based on what you want to learn (Mainland Chinese Mandarin, or Taiwanese Mandarin).When you reach an advanced level in Mandarin, you can study the opposite set. Natives will be able to read both character sets (although they might struggle with a few characters or read a little more slowly in the character set which is opposite to what they are used to)."
@@ -91,7 +132,13 @@
     {
       "tag": "10. How do I input or type in Chinese on my phone or computer",
       "patterns": [
-        "How do I input or type in Chinese on my phone or computer"
+        "How do I input or type in Chinese on my phone or computer",
+        "How can I type Chinese characters",
+        "How can I type in Chinese",
+        "How can I type characters",
+        "How can I write in Chinese on my computer",
+        "How can I write in Chinese on my phone",
+        "How can I type Chinese on my phone"
       ],
       "responses": [
         "On phones, go into your keyboard settings and you should be able to add a new language there. On computers, either download an IME (go to the Refold Mandarin Resource Doc and do a search for IME ), or go to your computer's keyboard or IME settings section to enable a Chinese IME. See this article for more detailed information."
@@ -100,7 +147,15 @@
     {
       "tag": "11. How many characters do I need to learn to understand most of a text/to be fluent",
       "patterns": [
-        "How many characters do I need to learn to understand most of a text/to be fluent"
+        "How many characters do I need to learn to understand most of a text/to be fluent",
+        "How many characters should I learn",
+        "How many characters do I need to know",
+        "How many characters does a native speaker know",
+        "How many characters can a native speaker read",
+        "How many characters does a Chinese person know",
+        "How many characters can a Chinese person read",
+        "How many characters do I need to know to become fluent",
+        "How many characters should I learn to become fluent"
       ],
       "responses": [
         "Various estimates say that a native will know between 3500-8000 (8000 for more educated natives) characters. At any rate, don't worry about how many characters you need to study. Just keep reading and mining new words. You'll get to a fluent reading level if you consistently immerse. Also, once you've learned the foundational/most important characters, the remaining characters you need to know will be dependent on the domains you're interested in. If you want to read chemistry articles, for example, you'll encounter characters that are specific to that domain."
@@ -109,7 +164,10 @@
     {
       "tag": "12. Should I learn how to handwrite",
       "patterns": [
-        "Should I learn how to handwrite"
+        "Should I learn how to handwrite",
+        "Should I learn how to write by hand",
+        "Do I need to learn to write",
+        "Should I learn to write characters by hand"
       ],
       "responses": [
         "We generally believe that there is little benefit to learning to handwrite before you are fluent in Mandarin. While some people claim it helps them remember the hanzi, we tend to believe that you would make quicker gains by reading more. More exposure to the characters and the compounds they are used in will lead to faster results. The stronger your reading ability, the easier it will be to learn to write the characters later. Of course, this also depends on your personal goals with the language."
@@ -118,7 +176,16 @@
     {
       "tag": "13. I don't find Chinese content interesting. What should I do",
       "patterns": [
-        "I don't find Chinese content interesting. What should I do"
+        "I don't find Chinese content interesting. What should I do",
+        "Is all Chinese content boring",
+        "Are there any good Chinese shows",
+        "Are there any good Chinese movies",
+        "Are there any good Chinese podcasts",
+        "Are there any good Chinese books",
+        "Is there interesting Chinese content",
+        "What should I watch",
+        "What should I read",
+        "What should I listen to"
       ],
       "responses": [
         "There is an extremely wide range of TV shows, books, websites, articles, magazines, games, movies, podcasts, videos, etc. available in Chinese. It is most likely that you just don't like the content you've tried to consume so far. Take a look at the Refold Mandarin Resource Doc and Sheet where we've collected a wide variety of content, and you'll be sure to find something you enjoy there."
@@ -137,7 +204,10 @@
       "tag": "15. Should I be listening or reading",
       "patterns": [
         "Should I be listening or reading",
-        "Listening with or without subtitles"
+        "Listening with or without subtitles",
+        "Is listening better than reading",
+        "Is it better to listen or to read",
+        "Is listening more effective than reading"
       ],
       "responses": [
         "Through your language learning journey, you should pretty much always be doing both. However, because reading allows you to slow down the language into manageable chunks, generally reading is where significant gains are made. Listening is often about learning to hear that which you already learned by reading. In the beginning, using tools like Language Reactor can allow you to read subtitle files of shows. Read a line, then listen to it, then read the next, then listen to it. This can be a really great way to build a foundation in the language. Many people seem to find a  2/3  reading to  1/3  listening balance to be effective for themselves.Even while doing your listening, aiding comprehension via having Chinese subtitles on while listening is sometimes recommended. Once you have a 3 or 4 comprehension in a piece of content when listening with subs on, try challenging yourself more by removing the subs completely when working on listening. "
@@ -146,7 +216,10 @@
     {
       "tag": "16. I have heard that Refold is against early output, however this is not an option for me as I'm enrolled in a language class. Can I still follow this method",
       "patterns": [
-        "I have heard that Refold is against early output, however this is not an option for me as I'm enrolled in a language class. Can I still follow this method"
+        "I have heard that Refold is against early output, however this is not an option for me as I'm enrolled in a language class. Can I still follow this method",
+        "Can I learn to speak early",
+        "Why does Refold discourage early output",
+        "Is Refold against speaking Chinese early on"
       ],
       "responses": [
         "Yes, you certainly can. Just try to make up for the classroom output with extra input outside of class."
@@ -155,7 +228,12 @@
     {
       "tag": "17. I have a friend who doesn't want to do Refold/How do I convince others to do Refold",
       "patterns": [
-        "I have a friend who doesn't want to do Refold/How do I convince others to do Refold"
+        "I have a friend who doesn't want to do Refold/How do I convince others to do Refold",
+        "How do I convince people to join Refold",
+        "How do I convince my friend to join Refold",
+        "How do I convince people to do Refold",
+        "How do I convince people to follow Refold",
+        "How do I convince my friend to do Refold"
       ],
       "responses": [
         "Point them to https://refold.la/ and tell them to check it out. Recommend they join the Discord if they have any questions or are confused about the method. Beyond that, continue immersing and getting results. Results speak louder than words. Once you are fluent, they will probably become a lot more interested in the method. If you constantly push them to do Refold, they'll probably just get turned off and not want to do it, as nobody likes being pushed to do something by others."
@@ -164,7 +242,13 @@
     {
       "tag": "18. Do I have to use Anki",
       "patterns": [
-        "Do I have to use Anki"
+        "Do I have to use Anki",
+        "Is Anki necessary",
+        "Can I use another spaced repetition system",
+        "Can I use something other than Anki",
+        "Do I have to use spaced repetation",
+        "Do I have to use SRS",
+        "Is SRS necessary"
       ],
       "responses": [
         "Anki is the most recommended SRS software because of all of the add-ons available for it. It is also free and open source, and has cross-platform availability. Many of us feel that Anki is very helpful as it helps accelerate the learning process. However it is not a substitute for immersion. In fact several of our members who achieved fluency never used Anki, or did not start using it until they had already achieved fluency. The SRS is a supplement to immersion, don't get caught in the trap of thinking it's the main part. Reading is like a natural SRS and is far more important. The diagram below also illustrates how some members view the usefulness of Anki -- as a beginner Anki will be helpful in learning foundational vocab, as you reach an intermediate level it becomes less useful and you'll be getting a ton of natural SRS from your immersion anyway (but you should still keep your Anki habit up, as doing your reviews should only take 10-20 minutes per day anyway), and once you reach an advanced/fluent level, it becomes useful in helping you learn rarer vocabulary you encounter in your immersion."
@@ -173,7 +257,10 @@
     {
       "tag": "19. How many new Anki cards should I learn per day",
       "patterns": [
-        "How many new Anki cards should I learn per day"
+        "How many new Anki cards should I learn per day",
+        "How many new cards should I learn",
+        "How many new Anki cards per day",
+        "What is the right amount of new Anki cards per day"
       ],
       "responses": [
         "Most people seem to find somewhere between 10-20 cards a day manageable. Remember, the reviews will pile up, so be careful not to go too hard on changing the new card setting. If you just got started with using Anki, it'll seem relaxed at first. But to see what your review load will be in 2 weeks, you can either multiply your new card number by 7 to see what the load will be (for example, if you are doing 10 new cards per day, you'll be doing somewhere around 70 reviews per day after 2 weeks), or use the Anki Simulator addon to check."
@@ -182,7 +269,12 @@
     {
       "tag": "20. Is music a good source of input",
       "patterns": [
-        "Is music a good source of input"
+        "Is music a good source of input",
+        "Does music count as input",
+        "Can I use music to immerse",
+        "Does music count as immersion",
+        "Does music help you acquire a language",
+        "Can I learn Chinese from music"
       ],
       "responses": [
         "Any immersion is better than none. Furthermore, enjoying the language is essential. That being said, music lyrics are often very poetic, grammatically unnatural and virtually useless for pronunciation. This is a controversial issue among linguists and native speakers -- some believe that tone is not preserved in Mandarin songs (see pages 116-118 of this dissertation), while others believe that it's optional or partially preserved in some songs. Because of this, it's not recommended as a high-quality source of immersion, although higher-level learners might be able to take better advantage of mining song lyrics."
@@ -192,7 +284,12 @@
       "tag": "21. Can I immerse in video games",
       "patterns": [
         "Can I immerse in video games",
-        "Are video games good immersion"
+        "Are video games good immersion",
+        "Do video games count as input",
+        "Can I use video games to immerse",
+        "Do video games count as immersion",
+        "Do video games help you acquire a language",
+        "Can I learn Chinese from video games"
       ],
       "responses": [
         "Most video games are not as valuable for language learning because the language density is low. You can also enjoy games without understanding what is being said at all. But if you're gonna spend your time playing games, you might as well do it in your target language. Just don't expect significant language gains from this. The exceptions are visual novels (which in many cases can be just as complex as regular novels), and some RPGs. All games are different though, so use your own judgement. In general you want immersion sources with as much language density as possible. Over time, it really does matter.That being said, if you are going to play video games, having passive immersion in the background can help. When the game provides little to no active immersion, switching focus to your passive immersion can increase your overall language exposure. It's not as good as language-dense active immersion, but it helps."
@@ -201,7 +298,13 @@
     {
       "tag": "22. Should I learn Classical Chinese/Literary Chinese",
       "patterns": [
-        "Should I learn Classical Chinese/Literary Chinese"
+        "Should I learn Classical Chinese/Literary Chinese",
+        "Is Classical Chinese good to learn",
+        "Should I learn literary Chinese",
+        "Do I need to learn Classical Chinese",
+        "Do I need to learn Literary Chinese",
+        "How important is classical Chinese",
+        "How important is literary Chinese"
       ],
       "responses": [
         "This depends on how high of a level you want to reach in the language. Even in modern novels, essays, and in some games and TV shows, there will be descriptions, dialogue, etc. which exhibit great influence from Classical/Literary Chinese. Maybe at stage 3 or 4 you should consider starting to learn it."
@@ -211,7 +314,14 @@
       "tag": "23. What graded readers should I read",
       "patterns": [
         "What graded readers should I read",
-        "What should I read after I finish Mandarin Companion graded readers/graded readers in general"
+        "What should I read after I finish Mandarin Companion graded readers/graded readers in general",
+        "Are graded readers good to read",
+        "Should I read graded readers",
+        "Are graded readers useful",
+        "What are the best graded readers",
+        "What are easy books that I can read",
+        "What books can I read with a limited vocabulary",
+        "What books can I read with a small vocabulary"
       ],
       "responses": [
         "Graded ReadersMandarin CompanionThe Rise of the Monkey King on AmazonPleco has graded reader ebooks as a pack targeted at those with 500, 1000, 3000 word vocabulariesDuchinese has short texts, some stories beginner to advancedMandarin Bean has beginner/intermediate/advanced stories, which are longer than DuchineseAfter Graded ReadersThere is WordSwing for intermediate levels (HSK 3,4), a text game and also a comic story, 1 game, one chapter of the comic is free. Or you can start reading manga Kuai Kan Man Hua Bi Li Bi Li Man Hua CCCChuang Zuo Ji  (Taiwan)Or you download the free Readibu app, which has free novels from HSK 5 up or short stories from HSK 4. Or read real books (Xiao Wang Zi  or Huo Zhao  as examples)Also consider webnovelsQi Dian : One of the biggest web novel sites in mainland China.Jin Jiang Wen Xue Cheng : One of the biggest web novel sites in mainland China, targeted at female readers.POPOYuan Chuang Shi Ji : Taiwanese web novel site.Read the newsGLOSS: From the US Defense Language Institute (DLI). You can choose a difficulty level and it shows you real news articles which all have audio read by a native speaker. Great if you're just getting started with reading the news. Even at advanced levels it's useful if you choose a high difficulty. Don't worry about the exercises/tests that come up when you open an article, just click \"source\" on the top right for the article text/audio."
@@ -221,7 +331,14 @@
       "tag": "24. Is Chinese read vertically or horizontally",
       "patterns": [
         "Is Chinese read vertically or horizontally",
-        "Right-to-left or left-to-right"
+        "Right-to-left or left-to-right",
+        "Do you read Chinese left to right",
+        "Do you read Chinese vertically",
+        "Do you read Chinese horizontally",
+        "Is Chinese read vertically",
+        "Is Chinese read horizontally",
+        "What direction do you read Chinese",
+        "What direction is Chinese written"
       ],
       "responses": [
         "In Mainland China books and documents are all read horizontally, left-to-right.In Taiwan, books are often read vertically, right-to-left.Translated Japanese manga tends to preserve the Japanese orientation, and is read vertically, right-to-left.In both places, all articles on the internet will be read horizontally, left-to-right.In Mainland China and Taiwan, a lot of old signs, such as those on old palaces or temples will be read horizontally, right-to-left."
@@ -230,7 +347,13 @@
     {
       "tag": "25. For learning hanzi should I do Heisig's Remembering the Hanzi (RTH) or should I just dive into using a vocab deck on Anki",
       "patterns": [
-        "For learning hanzi should I do Heisig's Remembering the Hanzi (RTH) or should I just dive into using a vocab deck on Anki"
+        "For learning hanzi should I do Heisig's Remembering the Hanzi (RTH) or should I just dive into using a vocab deck on Anki",
+        "Should I do Remembering the Hanzi",
+        "Should I do RTH",
+        "Is Heisig's book good",
+        "Is Heisig's book good for learning chinese characters",
+        "Is Heisig's book good for learning hanzi",
+        "Is RTH good for learning Chinese characters"
       ],
       "responses": [
         "Heisig is no longer officially recommended by Refold. Rather, we suggest you use a vocab deck with 1000 or so foundational words, along with audio and example sentences. We have a deck like that, and more info about that deck can be found under FAQ Question #2. For the reasons why we recommend using such a deck, please see Matt's video on the JP1K deck -- although that video is about the Refold Japanese deck, the core principles still apply to the Mandarin deck.Having said all that, some Refolders still find doing a few hundred characters of Heisig (in addition to doing a vocab Anki deck) to be helpful in learning how to break characters down into components. Do this if you want, but it's not required."
