@@ -1,3 +1,4 @@
+import argparse
 import discord
 import faqbot
 import random
@@ -80,6 +81,8 @@ class MyClient(discord.Client):
             else:
                 await message.channel.send("I'm sorry. I have not been taught an answer to this question yet. Please ask a different way or try again later. I will hopefully be taught this soon.\n Until then try <#778822272081330177>, <#778820943459778570>, <#778821128436318218> or the most appropriate channel. Don't forget to tag your questions with !q to make them easy for mods and helpers to find.   ")
 
-
+parser = argparse.ArgumentParser(description='Discord FAQ bot for Refold Mandarin server')
+parser.add_argument('auth_key', type=str, help='the key to authenticate this discord bot with discord')
+args = parser.parse_args()
 client = MyClient()
-client.run('')
+client.run(args.auth_key)
