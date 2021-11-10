@@ -1,12 +1,11 @@
 from bs4 import BeautifulSoup
 import json
 import requests
-from unidecode import unidecode
 URL = "https://docs.google.com/document/d/e/2PACX-1vTFW4FvTMIt9XqwbgsC9issVMdTR4OlrHasUbLlcjfp2k7hjLwIF-bNwLAWm62TIAvAR5yFKqk_T5Rg/pub#h.r2si0xqsfiif"
 
 page = requests.get(URL)
 
-soup = BeautifulSoup(unidecode(str(page.content, encoding='utf8')), "html.parser")
+soup = BeautifulSoup(str(page.content, encoding='utf8'), "html.parser")
 
 question_headers = soup.find_all("h2")
 

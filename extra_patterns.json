@@ -1,6 +1,6 @@
 {
-  "1. Why does \"X\" work this way": [],
-  "2. I'm absolutely new to Mandarin Chinese. Where do I even start": [
+  "1. Why does \u201cX\u201d work this way": [],
+  "2. I\u2019m absolutely new to Mandarin Chinese. Where do I even start": [
     "Where do I start",
     "Where do I get started",
     "How do I start",
@@ -55,7 +55,12 @@
     "Should I learn simplified or traditional",
     "Is simplified better than traditional"
   ],
-  "9. Should I learn Pinyin or Zhuyin": [],
+  "9. Should I learn Pinyin or Zhuyin": [
+    "Should I learn Pinyin",
+    "Should I learn Zhuyin",
+    "Is it better to learn Pinyin or Zhuyin",
+    "Is Zhuyin better than Pinyin"
+  ],
   "10. How do I input or type in Chinese on my phone or computer": [
     "How can I type Chinese characters", 
     "How can I type in Chinese", 
@@ -96,7 +101,7 @@
     "Is it better to listen or to read",
     "Is listening more effective than reading"
   ],
-  "16. I have heard that Refold is against early output, however this is not an option for me as I'm enrolled in a language class. Can I still follow this method": [
+  "16. I have heard that Refold is against early output, however this is not an option for me as I\u2019m enrolled in a language class. Can I still follow this method": [
     "Can I learn to speak early",
     "Why does Refold discourage early output",
     "Is Refold against speaking Chinese early on"
@@ -161,7 +166,7 @@
     "What direction do you read Chinese",
     "What direction is Chinese written"
   ],
-  "25. For learning hanzi should I do Heisig's Remembering the Hanzi (RTH) or should I just dive into using a vocab deck on Anki": [
+  "25. For learning hanzi should I do Heisig\u2019s Remembering the Hanzi (RTH) or should I just dive into using a vocab deck on Anki": [
     "Should I do Remembering the Hanzi",
     "Should I do RTH",
     "Is Heisig's book good",
