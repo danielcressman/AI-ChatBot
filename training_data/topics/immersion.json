@@ -1,4 +1,4 @@
-      {"tag": "immersion-WhatDoIDoDuringImmersion",
+[{"tag": "immersion-WhatDoIDoDuringImmersion",
       "patterns": ["What do I do during immersion", "How do I immerse", "what should I focus on during immersion", "what do I focus on during immersion", "How to immerse", "how to do active immersion", "What do I do for immersion as an absolute beginner", "what do i do in immersion"],
       "responses": ["What exactly you do during immersion is hard to explain. The video linked below attempts to clairify this, but here is the answer in short. Do whatever you have to do to understand what you are consuming. This does not mean stop and look up every word you don't know to try and understand everything you are consuming. This is not advised to do often. This means to focus on the element preventing you from understanding your immersion.\n\nIn the beginning, this will be the sounds of the language. When you first start, you won't be able to hear the language properly. Most of it will sound like gibberish, so your focus should be on listening as intently as you can to listen to the sounds of the language. Once you start hearing the sounds better, you will begin to start picking out words. Some of the words you will recognize from your flashcards. Others will just be words you have heard in your immersion a lot and stick out. Words will eventually turn into sentences and into groups of sentences, scenes, and ultimately entire stories.\n\nIf you are still confused, try watching the video linked below and ask me some of the related questions. Good luck!"],
       "Field-1": ["What do we do during immersion", "A video attempting to explain what exactly we do during immersion", "https://youtu.be/m0GfLNQeRvI?t=705"],
@@ -429,4 +429,4 @@
           "Field-6": ["", "", ""],
           "Related-Q":"",
           "context_set": ""
-         },
+         }]

@@ -1,4 +1,4 @@
-   {"tag": "Beginner-HowDoIGetStarted",
+[{"tag": "Beginner-HowDoIGetStarted",
     "patterns": ["How do I get started", "What do I do first", "How do I start", "where do I start", "how do i begin immersing", "How do I learn Japanese", "How do I learn a language", "how to get into refold", "What can I do on this server", "How does one get started", "where to start", "How should I get started", "What should I learn first when learning Japanese", "What should I learn first"],
     "responses": ["If you are brand new to the Refold method, you want to head on over to the <#784120941650509865> channel. This will give you resources, guides, and articles to get started with Refold and immersion learning. It is a lot of information, so do not worry if you don't understand it all the first time. If you are still confused after reading all the content in <#784120941650509865>, feel free to come back here and ask me some more questions. Good luck^^."],
     "Field-1": ["", "", ""],
@@ -21,4 +21,4 @@
     "Field-6": ["", "", ""],
     "Related-Q":"",
     "context_set": ""
-   },
+   }]

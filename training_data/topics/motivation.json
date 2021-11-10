@@ -1,4 +1,4 @@
-{"tag": "motivation-HowCanIStayInterestedIfDontUnderstand",
+[{"tag": "motivation-HowCanIStayInterestedIfDontUnderstand",
     "patterns": ["How can I stay interested if I don't understand anything", "how can I stay motivated if I don't understand much", "how stay interested if I don't understand much", "how stay motivated if don't comprehend much of my immersion", "How do I immerse when I don't know any Japanese", "Stage 1 immersion"],
     "responses": ["Sorry i'm not good at motivation questions yet, please try again later."],
     "Field-1": ["Stage 1 active immersion", "Ways to enjoy immersion when you don't understand anything.", "https://refold.la/roadmap/stage-1/a/active-immersion#Rewatch-Content"],
@@ -57,4 +57,4 @@
     "Field-6": ["", "", ""],
     "Related-Q":"",
     "context_set": ""
-   },
+   }]

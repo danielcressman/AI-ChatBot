@@ -1,4 +1,4 @@
-{"tag": "output-ShouldISpeakEarlyWhenOutput",
+[{"tag": "output-ShouldISpeakEarlyWhenOutput",
    "patterns": ["Should I speak early", "should I output early", "is it recomended to speak from day one", "When should I start outputting", "When should I start speaking", "Why shouldn't I early output", "why do I have to wait so long to speak", "What is early output", "When should i output", "when do I start speaking"],
    "responses": ["Refold recommends focusing on comprehension first and not outputting till stage 3. Early output is the act of speaking or writing Japanese early. Everybody's journey is different, but the general recommendation is to not output until stage 3. There are many reasons we think this is the best route for most people. First, it gives you time to train your ear to properly hear the language. Second, it minimizes bad habits that can form by speaking improperly. Input helps inform good speaking, but speaking does not help inform comprehension or understanding. So focusing on understanding the language first has a double-dip effect helping improve your comprehension and speaking instincts. Trying to speak early does not double dip and is time spent only working on one skill. Speaking. And possibly improperly at that. Suppose you do, however, choose to ignore our advice or are in a situation where you can't wait to output (such as living in the country). In that case, we recommend only speaking with Natives. Two language learners speaking with each other is a recipe for compounding the harmful effects of early output."],
    "Field-1": ["", "", ""],
@@ -93,4 +93,4 @@
    "Field-6": ["", "", ""],
    "Related-Q":"",
    "context_set": ""
-  },
+  }]

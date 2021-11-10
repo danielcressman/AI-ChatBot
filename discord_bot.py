@@ -33,9 +33,9 @@ class MyClient(discord.Client):
                 embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/856984019337609236/862729433265864784/Refold-Japanese.png")
                 for link in links:
                     href = link['href']
-                    text = href
-                    if len(href) > 40:
-                        text = href[:40] + '...'
+                    text = link['value'] if 'value' in link else link['href']
+                    if len(text) > 80:
+                        text = text[:80] + '...'
 
                     embed.add_field(name=link['label'], value='[{}]({})'.format(text, href), inline=True)
                 if RelatedQ != "": 

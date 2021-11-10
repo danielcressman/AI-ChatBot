@@ -1,4 +1,4 @@
-        {"tag": "Refold-WhatIsRefold",
+[{"tag": "Refold-WhatIsRefold",
          "patterns": ["What is refold", "what is immersion learning", "why should I use refold"],
          "responses": ["Refold is creating the most efficient and comprehensive immersion learning method. The video linked below should help you understand the basics of what Refold is and what we are building out here. Scroll down the page to the \"What is Refold\" section."],
          "Field-1": ["What is Refold", "Scroll down to the What is Refold video", "https://refold.la/"],
@@ -273,4 +273,4 @@
          "Field-6": ["", "", ""],
          "Related-Q":"",
          "context_set": ""
-        },
+        }]

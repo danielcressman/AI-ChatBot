@@ -1,4 +1,4 @@
-        {"tag": "SentenceMining-WhatIsSentenceMining",
+[{"tag": "SentenceMining-WhatIsSentenceMining",
          "patterns": ["What is sentence mining", "how do i start sentence mining", "sentence mining", "how to mine vocabulary", "how to mine"],
          "responses": ["Sentence mining is the recommended way of learning new vocabulary after you have finished your initial foundation vocabulary deck. I have linked two articles below that should tell you a lot more about sentence mining and its details. Once you understand what sentence mining is, you may want to ask me about tools people use to help make the process easier and more efficient."],
          "Field-1": ["Basic sentence mining", "Refold article on the basics of what mining is.", "https://refold.la/roadmap/stage-2/a/basic-sentence-mining"],
@@ -81,5 +81,4 @@
          "Field-6": ["", "", ""],
          "Related-Q":"What is the snowball effect?  /  How do I sentence mine?",
          "context_set": ""
-        },
-
+        }]

@@ -1,4 +1,4 @@
-{"tag": "Misc-ThatNotAQuestion",
+[{"tag": "Misc-ThatNotAQuestion",
    "patterns": ["Input", "output", "anki", "refold", "immersion", "AJATT", "sentence mining", "Pronunciation", "books", "reading", "cards", "decks", "Novels"],
    "responses": ["Sorry but that's not a question. Please try asking me a question :)"],
    "Field-1": ["", "", ""],
@@ -441,4 +441,4 @@
       "Field-6": ["", "", ""],
       "Related-Q":"",
       "context_set": ""
-     },
+     }]

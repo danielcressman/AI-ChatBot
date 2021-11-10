@@ -1,4 +1,4 @@
-        {"tag": "Random-WhoIsMatt",
+[{"tag": "Random-WhoIsMatt",
          "patterns": ["Who is mattvsjapan", "Who is Matt"],
          "responses": ["MattVsJapan is the Co-Creator of Refold and Japanese and lanugage learning YouTube content creator."],
          "Field-1": ["", "", ""],
@@ -153,4 +153,4 @@
          "Field-6": ["", "", ""],
          "Related-Q":"",
          "context_set": ""
-        },
+        }]

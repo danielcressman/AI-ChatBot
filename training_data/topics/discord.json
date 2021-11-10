@@ -1,4 +1,4 @@
-   {"tag": "discord-WhatDoesChannelDo",
+[{"tag": "discord-WhatDoesChannelDo",
     "patterns": ["What does channel do"],
     "responses": ["Each discord channel has a description provided in the channel. Just check the channel description to find out what that channel is used for."],
     "Field-1": ["", "", ""],
@@ -105,4 +105,4 @@
       "Field-6": ["", "", ""],
       "Related-Q":"",
       "context_set": ""
-     },
+     }]

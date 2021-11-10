@@ -1,4 +1,4 @@
-   {"tag": "Grammar-HowDoILearnGrammar",
+[{"tag": "Grammar-HowDoILearnGrammar",
     "patterns": ["How should I learn grammar", "How do I learn grammar", "How does grammar work", "How do I implement grammar", "How long should I spend learning grammar each day", "how long should I do grammar everyday", "Should I do grammar drills", "how to study grammar", "How do I study grammar properly"],
     "responses": ["Refold recommends casually browsing a beginner grammar resource for 10-20 minutes daily to help jumpstart your immersion comprehension. However, we highly caution against  \"studying\" the grammar or doing \" grammar drills\". Instead, browse the concepts and try to understand the example sentences. Then lookout for these concepts in your daily immersion to further solidify them. This Refold article on the website should give you more details on how to handle grammar. (linked below)\n\n(Note: Do what works best for you, but we think doing 5 min of grammar browsing every hour of immersion until you reach that 10-20 minutes per day is the best strategy."],
     "Field-1": ["Refold Grammar Article", "Refold's article on how to learn grammar", "https://refold.la/roadmap/stage-1/c/grammar"],
@@ -165,4 +165,4 @@
       "Field-6": ["", "", ""],
       "Related-Q":"",
       "context_set": ""
-     },
+     }]

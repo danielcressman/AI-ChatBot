@@ -13,7 +13,7 @@ import tensorflow as tf
 import json
 import pickle
 
-with open("intents.json") as file:
+with open("training_data/intents.json") as file:
     data = json.load(file)
 
 try:

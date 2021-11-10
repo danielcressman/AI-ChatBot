@@ -1,4 +1,4 @@
-   {"tag": "Vocabulary-HowToLearnVocabulary",
+[{"tag": "Vocabulary-HowToLearnVocabulary",
     "patterns": ["How to learn vocabulary", "how get vocabulary foundation", "how do I learn vocab", "How to get a vocab foundation"],
     "responses": ["First, check out the Refold article about vocabulary and the vocabulary section of the Japanese Stage 1 Guide (both linked below). After that, chose one of the recommended Japanese foundation decks to get a vocabulary foundation before sentence mining. So don't worry about sentence mining for now unless you have already finished your foundation deck.\n\n The current recommended foundation deck is the Refold JP1K deck. Info on this deck is linked below. However, this is for Patron supporters only, so if you need other options, make sure to check out the stage 1 guide or the resource document for alternatives.\n\n Any foundation deck works. The main point of the deck is to get you ready for sentence mining, so don't stress too much on picking a deck. Any of the ones in the documents listed below will work."],
     "Field-1": ["Refold Vocabulary Article", "This covers Refolds take on vocabluary", "https://refold.la/roadmap/stage-1/c/vocabulary"],
@@ -117,4 +117,4 @@
       "Field-6": ["", "", ""],
       "Related-Q":"What Anki deck should I use?  //  What is sentence mining?",
       "context_set": ""
-     },
+     }]

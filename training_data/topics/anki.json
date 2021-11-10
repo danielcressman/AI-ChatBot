@@ -1,4 +1,4 @@
-   {"tag": "Anki-WhatIsAnki",
+[{"tag": "Anki-WhatIsAnki",
     "patterns": ["What is anki", "What is SRS", "What is spaced repetition system", "what does anki do", "What’s Anki", "What is anki study"],
     "responses": ["Anki is the recommended SRS to use with Refold. SRS stands for \" Spaced repetition system\". SRS are basically flashcards that use an algorithm that attempts to show you information just before you forget them, rather than entirely randomly. This makes studying material much more effective and efficient. Anki is recommended because of the many powerful tools for language learning that make it the best option out there. I recommend you check out the resources below from Refold to learn more about Anki and how it works."],
     "Field-1": ["Stage-0 Active Study", "This article goes over the SRS and why we use it for language learning", "https://refold.la/roadmap/stage-0/c/active-study"],
@@ -453,4 +453,4 @@
       "Field-6": ["", "", ""],
       "Related-Q":"",
       "context_set": ""
-     },
+     }]

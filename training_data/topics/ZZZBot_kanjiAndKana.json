@@ -1,4 +1,4 @@
-{"tag": "KanjiAndKana-WhatIsKanjiAndKana",
+[{"tag": "KanjiAndKana-WhatIsKanjiAndKana",
     "patterns": ["What is Kanji", "What is Hiragana", "What is Katakana", "What is Kana", "Whats hiragana", "what's hiragana", "whats Kanji", "what's Kanji", "whats katakana", "what's katakana", "what is kana", "whats kana", "what's kana", "how many alphabets are there in japanese", "what are the Japanese alphabets", "how many alphabets does japanese have"],
     "responses": ["Japanese has 3 writing systems. Hiragana, Katakana and Kanji. The first two, Hiragana and Katakana (collectivly refered to often as Kana), are phonetic writing systems.\n\n**1. Kana (Hiragana and Katakana)**\n These are phonetic writing systems. This means that each character has a sound, and it's pretty simple, comparatively, to learn how to read and sound out words (much like the English alphabet). While this is not always true, for the most part, Hiragana is used to write Japanese words and form conjugations. In contrast, Katakana is usually used for loan words (words adapted from other languages).\n\n**2. Kanji**\nKanji, on the other hand, is a pictorial writing system. There are thousands of characters, and each character can have multiple meanings and multiple ways of reading them. This is why we recommend learning kanji the way we do. Even if you could import every kanji into your brain, like in The Matrix, you still would not be able to read Japanese. Without a lot of vocabulary knowledge and reading practice, you would not know which reading to use when reading words you don't know. This is because character meanings and readings change based on what word they are used in. This is why we recommend getting familiar with kanji and then actually mastering kanji through vocabulary and reading rather than boring frontloaded \" kanji learning\".\n\nHiragana: ひらがな\nKatakana: カタカナ\nKanji: 漢字"],
     "Field-1": ["", "", ""],
@@ -300,4 +300,3 @@
    }
     
 ]
-}
