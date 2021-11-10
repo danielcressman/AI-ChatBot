@@ -1,12 +1,19 @@
-[{"tag": "Resources-Subtitles",
-   "patterns": ["doc subtitle"],
-   "responses": ["Here are some subtitle repositories."],
-   "Field-1": ["Content Resource Doc Subtitles", "subtitles in the doc", "https://docs.google.com/document/d/1CRIlBwd1qdHS501AfVFL5sQRdwSGna3ktWwkspRaJW0/edit#bookmark=id.3sos0jj0agsw"],
-   "Field-2": ["", "", ""],
-   "Field-3": ["", "", ""],
-   "Field-4": ["", "", ""],
-   "Field-5": ["", "", ""],
-   "Field-6": ["", "", ""],
-   "Related-Q":"",
-   "context_set": ""
-  }]
+[
+  {
+    "tag": "Resources-Subtitles",
+    "patterns": [
+      "doc subtitle"
+    ],
+    "responses": [
+      "Here are some subtitle repositories."
+    ],
+    "Related-Q": "",
+    "links": [
+      {
+        "label": "Content Resource Doc Subtitles",
+        "value": "subtitles in the doc",
+        "href": "https://docs.google.com/document/d/1CRIlBwd1qdHS501AfVFL5sQRdwSGna3ktWwkspRaJW0/edit#bookmark=id.3sos0jj0agsw"
+      }
+    ]
+  }
+]

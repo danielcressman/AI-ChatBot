@@ -74,18 +74,6 @@ for f in dir_list:
                 sys.exit()
 
         if isinstance(intents_for_topic, list):
-            def convert_named_link_fields_to_list(intent):
-                empty_field = ['', '', '']
-                fields = list(filter(lambda x: x != empty_field, [intent['Field-' + str(i)] for i in range(1, 7)]))
-                links = [{'label': field[0], 'value': field[1], 'href': field[2]} for field in fields]
-                return {'tag': intent['tag'],
-                        'patterns': intent['patterns'],
-                        'responses': intent['responses'],
-                        'Related-Q': intent['Related-Q'],
-                        'links': links}
-            intents_for_topic = map(
-                convert_named_link_fields_to_list,
-                intents_for_topic)
             intents.extend(intents_for_topic)
 
 
