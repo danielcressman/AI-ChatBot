@@ -18,10 +18,11 @@ def get_full_response(header):
   next_span = header.next_sibling
 
   while next_span != None and next_span.name != "h2":
-    paragraphs += next_span.text
+    if next_span.text != '':
+        paragraphs += next_span.text + '\n\n'
     next_span = next_span.next_sibling
 
-  return paragraphs
+  return paragraphs.strip()
 
 
 def get_first_paragraph_response(header):
