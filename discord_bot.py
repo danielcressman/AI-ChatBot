@@ -16,37 +16,28 @@ class MyClient(discord.Client):
         empty_field = ['', '', '']
         if result is not None:
             responses = result['responses']
-            fieldOne = result['Field-1'] if 'Field-1' in result else empty_field
-            fieldTwo = result['Field-2'] if 'Field-2' in result else empty_field
-            fieldThree = result['Field-3'] if 'Field-3' in result else empty_field
-            fieldFour = result['Field-4'] if 'Field-4' in result else empty_field
-            fieldFive = result['Field-5'] if 'Field-5' in result else empty_field
-            fieldSix = result['Field-6'] if 'Field-6' in result else empty_field
+            links = result['links']
             RelatedQ = result['Related-Q'] if 'Related-Q' in result else '' 
             theTag = result['tag']
             embed = None
 
                 #### Make the embed if there is no resource field 1 ####
-            if fieldOne[0] == "" and RelatedQ != "":
+            if len(links) == 0 and RelatedQ != "":
                 embed=discord.Embed(title="Related Questions:", description=RelatedQ, color=0x6544e9)
                 embed.set_footer(text="I am only useable by Admins, mods, and helpers in this channel. If you want to ask me a question, please visit #🤖basic-qa-bot. You do not need to type !bot in that channel.".format(RelatedQ))
                 embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/856984019337609236/862729433265864784/Refold-Japanese.png")
                 #### Make embed if there is a field 1 resource ####
-            if fieldOne[0] != "":
+            if len(links) != 0:
                 embed=discord.Embed(title="Additional Resources:", description="", color=0x6544e9)
                 embed.set_footer(text="I am only useable by Admins, mods, and helpers in this channel. If you want to ask me a question, please visit #🤖basic-qa-bot. You do not need to type !bot in that channel.".format(RelatedQ))
                 embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/856984019337609236/862729433265864784/Refold-Japanese.png")
-                embed.add_field(name=fieldOne[0], value="[{}]({})".format(fieldOne[1], fieldOne[2]), inline=True)
-                if fieldTwo[0] != "":
-                    embed.add_field(name=fieldTwo[0], value="[{}]({})".format(fieldTwo[1], fieldTwo[2]), inline=True)
-                    if fieldThree[0] != "":
-                        embed.add_field(name=fieldThree[0], value="[{}]({})".format(fieldThree[1], fieldThree[2]), inline=True)
-                        if fieldFour[0] != "":
-                            embed.add_field(name=fieldFour[0], value="[{}]({})".format(fieldFour[1], fieldFour[2]), inline=True)
-                            if fieldFive[0] != "":
-                                embed.add_field(name=fieldFive[0], value="[{}]({})".format(fieldFive[1], fieldFive[2]), inline=True)
-                                if fieldSix[0] != "":
-                                    embed.add_field(name=fieldSix[0], value="[{}]({})".format(fieldSix[1], fieldSix[2]), inline=True)
+                for link in links:
+                    href = link['href']
+                    text = href
+                    if len(href) > 40:
+                        text = href[:40] + '...'
+
+                    embed.add_field(name=link['label'], value='[{}]({})'.format(text, href), inline=True)
                 if RelatedQ != "": 
                     embed.add_field(name="Related Questions", value=RelatedQ, inline=False)
             return random.choice(responses), embed

@@ -12,16 +12,19 @@ question_headers = soup.find_all("h2")
 intents = []
 
 
-def get_full_response(header):
+def get_full_response_and_links(header):
   paragraphs = "" 
-  next_span = header.next_sibling
+  links = []
+  next_element = header.next_sibling
 
-  while next_span != None and next_span.name != "h2":
-    if next_span.text != '':
-        paragraphs += next_span.text + '\n\n'
-    next_span = next_span.next_sibling
+  while next_element != None and next_element.name != "h2":
+    if next_element.text != '':
+      paragraphs += next_element.text + '\n\n'
+    for link in next_element.find_all('a'):
+        links.append({'label': link.text, 'href': link.get('href')})
+    next_element = next_element.next_sibling
 
-  return paragraphs.strip()
+  return paragraphs.strip(), links
 
 
 def get_first_paragraph_response(header):
@@ -35,7 +38,7 @@ except IOError:
 
 for header in question_headers:
   questions = list(filter(lambda x: x.strip() != "", header.text.split("?")))
-  answer = get_full_response(header)
+  answer, links = get_full_response_and_links(header)
   tag = questions[0].strip()
 
   # Remove ordinal from beginning of question
@@ -47,7 +50,8 @@ for header in question_headers:
   intents.append({
     "tag": tag,
     "patterns": questions + (extra_patterns[tag] if tag in extra_patterns else []),
-    "responses": [answer]
+    "responses": [answer],
+    "links": links,
   })
 
 output = {
