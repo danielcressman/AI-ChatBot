@@ -12,15 +12,16 @@ class MyClient(discord.Client):
 
     def get_response_and_embed(self, message):
         result = faqbot.predict(message)
+        empty_field = ['', '', '']
         if result is not None:
             responses = result['responses']
-            fieldOne = result['Field-1']
-            fieldTwo = result['Field-2']
-            fieldThree = result['Field-3']
-            fieldFour = result['Field-4']
-            fieldFive = result['Field-5']
-            fieldSix = result['Field-6']
-            RelatedQ = result['Related-Q']
+            fieldOne = result['Field-1'] if 'Field-1' in result else empty_field
+            fieldTwo = result['Field-2'] if 'Field-2' in result else empty_field
+            fieldThree = result['Field-3'] if 'Field-3' in result else empty_field
+            fieldFour = result['Field-4'] if 'Field-4' in result else empty_field
+            fieldFive = result['Field-5'] if 'Field-5' in result else empty_field
+            fieldSix = result['Field-6'] if 'Field-6' in result else empty_field
+            RelatedQ = result['Related-Q'] if 'Related-Q' in result else '' 
             theTag = result['tag']
             embed = None
 
