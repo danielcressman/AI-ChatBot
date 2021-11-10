@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import requests
 URL = "https://docs.google.com/document/d/e/2PACX-1vTFW4FvTMIt9XqwbgsC9issVMdTR4OlrHasUbLlcjfp2k7hjLwIF-bNwLAWm62TIAvAR5yFKqk_T5Rg/pub#h.r2si0xqsfiif"
+GOOGLE_PREFIX = 'https://www.google.com/url?q='
 
 page = requests.get(URL)
 
@@ -21,7 +22,10 @@ def get_full_response_and_links(header):
     if next_element.text != '':
       paragraphs += next_element.text + '\n\n'
     for link in next_element.find_all('a'):
-        links.append({'label': link.text, 'href': link.get('href')})
+        suffix_index = link['href'].find('&sa=D')
+        href_without_suffix = link.get('href')[:suffix_index]
+        stripped_href = href_without_suffix.removeprefix(GOOGLE_PREFIX)
+        links.append({'label': link.text, 'href': stripped_href})
     next_element = next_element.next_sibling
 
   return paragraphs.strip(), links
