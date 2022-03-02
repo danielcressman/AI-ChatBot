@@ -28,10 +28,23 @@
         "How do I get started",
         "What should I do first",
         "Where should I start",
-        "How should I start"
+        "How should I start",
+        "Where do I start with Chinese",
+        "Where do I get started with Chinese",
+        "How do I start learning Chinese",
+        "How do I get started with Chinese",
+        "What should I do first with Chinese",
+        "How do I learn Chinese",
+        "Where should I start with Mandarin",
+        "Where do I start with Mandarin",
+        "Where do I get started with Mandarin",
+        "How do I start learning Mandarin",
+        "How do I get started with Mandarin",
+        "What should I do first with Mandarin",
+        "How do I learn Mandarin"
       ],
       "responses": [
-        "First, go to the #start-here channel in Discord, give yourself the Stage 0 role, and also read through the other messages in that channel to familiarize yourself with our server\u2019s events/clubs.\n\nThen, start off by reading through the Refold Roadmap.The roadmap explains the various stages of Refold and what you should be doing at each stage. You can read the simplified roadmap to start off with, but at some point you should read the detailed roadmap as well.\n\nNext, you'll need to familiarize yourself with Pinyin or Zhuyin (see FAQ #9), tones (see FAQ #4), Anki, etc. (refer to Stage 1 of the Refold Roadmap).\n\nThen, start chipping away at the first 1,000 most frequent words via a foundation Anki deck. We recommend this: Refold Mandarin 1k\u00a0(only choose 1 of the decks, not both \u2014 see FAQ #8 for the difference between Simplified and Traditional Chinese). For grammar, use the Chinese Grammar Wiki.\n\nNow, familiarize yourself with the wealth of resources available in our Refold Mandarin Resource Doc\u00a0and Sheet. Other resources are also available in the Media & Resources section of the Discord. Also, read through this entire FAQ before asking questions on the Discord. We\u2019d love to help you, but chances are your question has already been answered in detail in this FAQ.\n\nAfter you have established a routine with Anki, etc., you can then jump into immersion. Shows like Peppa Pig and Comprehensible Input videos might be very useful in the beginning. Meteor Garden (2018) is often recommended as a slice of life show to watch. However, what immersion material you use is entirely up to you and dependent on your own interests. The Resource Doc and Sheet have other suggestions for beginner immersion."
+        "First, go to the #start-here channel in Discord, give yourself the Stage 0 role, and also read through the other messages in that channel to familiarize yourself with our server\u2019s events/clubs.\n\nThen, start off by reading through the Refold Roadmap.The roadmap explains the various stages of Refold and what you should be doing at each stage. You can read the simplified roadmap to start off with, but at some point you should read the detailed roadmap as well.\n\nNext, you'll need to familiarize yourself with Pinyin or Zhuyin (see FAQ #9), tones (see FAQ #4), Anki, etc. (refer to Stage 1 of the Refold Roadmap).\n\nThen, start chipping away at the first 1,000 most frequent words via a foundation Anki deck. We recommend this: Refold Mandarin 1k\u00a0(only choose 1 of the decks, not both \u2014 see FAQ #8 for the difference between Simplified and Traditional Chinese). For grammar, use the Chinese Grammar Wiki.\n\nNow, familiarize yourself with the wealth of resources available in our Refold Mandarin Resource Doc\u00a0and Sheet. Other resources are also available in the Media & Resources section of the Discord (especially the in the pinned messages of those resource channels). Also, read through this entire FAQ before asking questions on the Discord. We\u2019d love to help you, but chances are your question has already been answered in detail in this FAQ.\n\nAfter you have established a routine with Anki, etc., you can then jump into immersion. Children\u2019s shows like Peppa Pig and comprehensible input videos might be very useful in the beginning (we have a list of comprehensible input video YouTube channels in the Resource Doc). We also have a list of Refold Mandarin Beginner Recommendations. However, what immersion material you use is entirely up to you and dependent on your own interests. The Resource Doc and Sheet have other suggestions for beginner immersion."
       ],
       "links": [
         {
@@ -40,7 +53,7 @@
         },
         {
           "label": "Refold Mandarin 1k",
-          "href": "https://mega.nz/folder/7ksXia5Y%23CjvdF44oJWtvxRUVB69PGQ"
+          "href": "https://mega.nz/folder/ql8Via4Y%23AS8xY2_zDcPVpDUkct7QsA"
         },
         {
           "label": "Chinese Grammar Wiki",
@@ -53,6 +66,14 @@
         {
           "label": "Sheet",
           "href": "https://refold.link/mandarinSheet"
+        },
+        {
+          "label": "Doc",
+          "href": "https://refold.link/mandarin"
+        },
+        {
+          "label": "Refold Mandarin Beginner Recommendations",
+          "href": "https://docs.google.com/spreadsheets/d/1Bcm1BmkOqNhB2phzhlmQ3Z1pG2oyrDB0rfF4v6ioBes/edit%23gid%3D0"
         }
       ]
     },
@@ -104,7 +125,7 @@
         "Do I have to learn tones"
       ],
       "responses": [
-        "In Mandarin there are 4 tones (plus the neutral tone). Tone is a feature of the language where the pitch you use to pronounce a syllable changes the meaning of that syllable. For example, \u5988 is pronounced with the first tone as m\u0101 and means \u201cmother\u201d, \u9ebb is pronounced with the second tone as m\u00e1 and means \u201chemp\u201d, \u9a6c is pronounced using the third tone as m\u01ce and means \u201chorse\u201d, \u9a82 is pronounced using the fourth tone as m\u00e0 and means \u201cscold\u201d, \u5417 is pronounced using the neutral tone as ma and is a grammatical particle used to ask questions. See this video\u00a0for a demonstration of the different tones.\n\nYes, you have to learn them. You sometimes will hear foreigners who claim that \u201cyou don\u2019t have to learn tones because people will understand you based on the context.\u201d At times, this is true \u2014\u00a0even if you use the wrong tone, people might still understand you. At other times, this is not true and you will not be understood. It is suggested you do not listen to people who tell you that tones aren\u2019t important or that you can just ignore tones. 9 times out of 10 these people have poor Mandarin language abilities themselves. Tones are a core part of the language."
+        "In Mandarin there are 4 tones (plus the neutral tone). Tone is a feature of the language where the pitch you use to pronounce a syllable changes the meaning of that syllable. For example, \u5988 is pronounced with the first tone as m\u0101 and means \u201cmother\u201d, \u9ebb is pronounced with the second tone as m\u00e1 and means \u201chemp\u201d, \u9a6c is pronounced using the third tone as m\u01ce and means \u201chorse\u201d, \u9a82 is pronounced using the fourth tone as m\u00e0 and means \u201cscold\u201d, \u5417 is pronounced using the neutral tone as ma and is a grammatical particle used to ask questions. See this video\u00a0for a demonstration of the different tones.\n\nYes, you have to learn them. You sometimes will hear foreigners who claim that \u201cyou don\u2019t have to learn tones because people will understand you based on the context.\u201d At times, this is true \u2014\u00a0even if you use the wrong tone, people might still understand you. At other times, this is not true and you will not be understood. It is suggested you do not listen to people who tell you that tones aren\u2019t important or that you can just ignore tones. 9 times out of 10 these people have poor Mandarin language abilities themselves. Sometimes you\u2019ll hear Chinese people say that tones aren\u2019t important as well, but they\u2019re just trying to be polite/encouraging to Chinese learners by saying this. Tones are a core part of the language."
       ],
       "links": [
         {
@@ -121,9 +142,14 @@
         "Is Chinese grammar like English"
       ],
       "responses": [
-        "At the beginning it may seem easy \u2014\u00a0no conjugations! No cases! Etc. However once you reach an advanced level, you\u2019ll realize that Chinese grammar is not as easy as it once may have seemed. At advanced levels, it\u2019s not uncommon to come across essays or novels that are influenced by \u6587\u8a00\u6587 (Literary Chinese/Classical Chinese), for example. A lot of Chinese grammar is simplistic\u00a0but it is not easy. Simple does not necessarily equate with easy, and at times it can even make things a lot harder.\n\nPeople who claim Chinese grammar is easy usually are people who have never reached a truly high level in the language and whose own Chinese grammar is replete with grammatical mistakes, or, far less commonly, are people who have already reached a very high level in the language and have forgotten about the difficult aspects of the grammar because they\u2019ve been immersed in the language for so long and it\u2019s almost second nature to them at this point.\n\nNaturally expressing yourself in Chinese will require you to think in a completely different way compared with your native language. Avoid thinking in English/your native language and translating that directly into Chinese in your head when outputting. Do not fall into the trap of \u201cspeaking English using Chinese words.\u201d"
+        "At the beginning it may seem easy \u2014\u00a0no conjugations! No cases! Etc. However once you reach an advanced level, you\u2019ll realize that Chinese grammar is not as easy as it once may have seemed. At advanced levels, it\u2019s not uncommon to come across essays or novels that are influenced by \u6587\u8a00\u6587 (Literary Chinese/Classical Chinese), for example, and knowing how to naturally use chengyu (both in terms of which situations to use a chengyu and grammatically how it fits into a sentence) can also be challenging. As one blogger\u00a0put it, a lot of Chinese grammar is simplistic\u00a0but it is not easy. Simple does not necessarily equate with easy, and at times it can even make things a lot harder.\n\nPeople who claim Chinese grammar is easy usually are people who have never reached a truly high level in the language and whose own Chinese output is replete with grammatical mistakes and unnatural constructions, or, far less commonly, are people who have already reached a very high level in the language and have forgotten about the difficult aspects of the grammar because they\u2019ve been immersed in the language for so long and it\u2019s almost second nature to them at that point.\n\nNaturally expressing yourself in Chinese will require you to think in a completely different way compared with your native language. Do your best to avoid thinking in English/your native language and translating that directly into Chinese in your head when outputting. Do not fall into the trap of \u201cspeaking English using Chinese words.\u201d"
       ],
-      "links": []
+      "links": [
+        {
+          "label": "one blogger",
+          "href": "https://confusedlaowai.com/"
+        }
+      ]
     },
     {
       "tag": "6. What is the difference between Mandarin and Cantonese",
@@ -235,7 +261,7 @@
         "How many characters should I learn to become fluent"
       ],
       "responses": [
-        "Various estimates say that a native will know between 3500\u20138000 (8000 for more educated natives) characters. At any rate, don\u2019t worry about how many characters you need to study. Just keep reading and mining new words. You\u2019ll get to a fluent reading level if you consistently immerse. Also, once you\u2019ve learned the foundational/most important characters, the remaining characters you need to know will be dependent on the domains you\u2019re interested in. If you want to read chemistry articles, for example, you\u2019ll encounter characters that are specific to that domain."
+        "Various estimates say that a native will know between 3500\u20138000 (8000 for more educated natives) characters. At any rate, don\u2019t worry about how many characters you need to study. Just keep reading and mining new words. Your vocabulary size (words) is more important than how many individual characters you know (although of course they are related). You\u2019ll get to a fluent reading level if you consistently immerse. Also, once you\u2019ve learned the foundational/most important characters, the remaining characters you need to know may be dependent on the domains you\u2019re interested in. If you want to read chemistry articles, for example, you\u2019ll encounter characters that are specific to that domain."
       ],
       "links": []
     },
@@ -248,9 +274,14 @@
         "Should I learn to write characters by hand"
       ],
       "responses": [
-        "We generally believe that there is little benefit to learning to handwrite before you are fluent in Mandarin. While some people claim it helps them remember the hanzi, we tend to believe that you would make quicker gains by reading more. More exposure to the characters and the compounds they are used in will lead to faster results. The stronger your reading ability, the easier it will be to learn to write the characters later. Of course, this also depends on your personal goals with the language."
+        "We generally believe that there is little benefit to learning to handwrite before you are fluent in Mandarin. While some people claim it helps them remember the hanzi, we tend to believe that you would make quicker gains by reading more. Recent research\u00a0has also shown that \u201cCompared to using handwriting as a primary mode for daily practice, learners using Pinyin- typing and digital tools performed equally well in reading comprehension and Hanzi accuracy in typed essays, and significantly better in essay length, sentence-level word recognition, and program-end cumulative Hanzi retention.\u201d We also feel that more exposure to the characters and the compounds they are used in will lead to faster results. The stronger your reading ability, the easier it will be to learn to write the characters later. Of course, whether or not to learn handwriting earlier also depends on your own personal goals and circumstances with the language."
       ],
-      "links": []
+      "links": [
+        {
+          "label": "Recent research",
+          "href": "http://www.tclt.us/journal/2021v12n2/zhangn.pdf"
+        }
+      ]
     },
     {
       "tag": "13. I don't find Chinese content interesting. What should I do",
@@ -267,7 +298,7 @@
         "What should I listen to"
       ],
       "responses": [
-        "There is an extremely wide range of TV shows, books, websites, articles, magazines, games, movies, podcasts, videos, etc. available in Chinese. It is most likely that you just don\u2019t like the content you\u2019ve tried to consume so far. Take a look at the Refold Mandarin Resource Doc\u00a0and Sheet\u00a0where we\u2019ve collected a wide variety of content, and you\u2019ll be sure to find something you enjoy there."
+        "There is an extremely wide range of TV shows, books, websites, articles, magazines, games, movies, podcasts, videos, etc. available in Chinese, just like with any major language. It is most likely that you just don\u2019t like the content you\u2019ve tried to consume so far. Take a look at the Refold Mandarin Resource Doc\u00a0and Sheet\u00a0where we\u2019ve collected a wide variety of content, and you\u2019ll be sure to find something you enjoy there."
       ],
       "links": [
         {
@@ -286,7 +317,7 @@
         "What are radicals"
       ],
       "responses": [
-        "Simple Answer:\n\nThe concepts of radicals, or \u90e8\u9996, (literally \u201csection headers\u201d), was invented in order to organize Chinese characters for the Shuowen Jiezi.Radicals are components shared by various characters. See a full list of the radicals here. Contrary to popular belief, characters are not made up of radicals. Rather, radicals are just as their Chinese name indicates \u2014\u00a0\u201c(dictionary) section headers.\u201d\n\nIt is still recommended that you eventually study radicals, as natives will often use informal radical names (\u4fd7\u79f0)\u00a0to describe character components in conversations.\n\nFor more information on radicals, we recommend you watch this short video\u00a0and read this article\u00a0for an overview from an expert on Chinese characters on why radicals are not, in fact, the \u201cbuilding blocks\u201d of characters, but rather, sound and meaning components are.\n\nAdvanced Answer:\n\n\u201cRadical\u201d can mean one of four things:\n\n1) \u504f\u65c1 \uff08meaning radical \u5f62\u65c1 sound radical\u58f0\u65c1\uff09 which only applies to phono-semantic characters \u5f62\u58f0\u5b57 (the majority of characters), like \u62a5\u3001\u8bf4\u3001\u6301\u3001\u5f85. \u00a0This is the original purpose of 'radical'. e.g. for \u9614: \u00a0\u95e8 \u00a0\u3001\u820c\u3001\u6c35\u3001\u6d3b\n\n2) \u90e8\u4ef6 best translated to components, probably the thing people first think of when saying 'radical' or 'component'. Just anything that seems meaningful that is a smaller part of the character. (Has a more rigorous definition, but unimportant)\n\n3) \u90e8\u9996 or indexing components for a list or dictionary. The \u90e8\u4ef6 designated as special by the list/dictionary author. Modern Chinese dictionaries are indexed in two ways: alphabetically (for the equivalent pinyin) and by \u90e8\u9996. Only one per character.\n\n4) same \u00a0as 2) just in the context of \u516d\u4e66, a way to categorise all \u6c49\u5b57 by how characters they were created. This is what the Outlier Linguistics\u00a0people are talking about, although they are taking a slightly different approach to its explanation. The phono-semantic type of character (\u5f62\u58f0\u5b57) is one of the six \u4e66 mentioned in 1).\n\n(Four of the six \u4e66\u00a0are important)"
+        "Simple Answer:\n\nThe concepts of radicals, or \u90e8\u9996, (literally \u201csection headers\u201d), was invented in order to organize Chinese characters for the Shuowen Jiezi.Radicals are components shared by various characters. See a full list of the radicals here. Contrary to popular belief, characters are not made up of radicals. Rather, radicals are just as their Chinese name indicates \u2014\u00a0\u201c(dictionary) section headers.\u201d\n\nIt is still recommended that you eventually study radicals, as natives will often use informal radical names (\u4fd7\u79f0)\u00a0to describe character components in conversations.\n\nFor more information on radicals, we recommend you watch this short video\u00a0and read this article\u00a0for an overview from an expert on Chinese characters on why radicals are not, in fact, the \u201cbuilding blocks\u201d of characters, but rather, sound and meaning components are.\n\nAdvanced Answer:\n\n\u201cRadical\u201d can mean one of four things:\n\n1) \u504f\u65c1 \uff08meaning radical \u5f62\u65c1 sound radical\u58f0\u65c1\uff09 which only applies to phono-semantic characters \u5f62\u58f0\u5b57 (the majority of characters), like \u62a5\u3001\u8bf4\u3001\u6301\u3001\u5f85. This is the original purpose of 'radical'. e.g. for \u9614: \u95e8\u3001\u820c\u3001\u6c35\u3001\u6d3b\n\n2) \u90e8\u4ef6 best translated to components, probably the thing people first think of when saying 'radical' or 'component'. Just anything that seems meaningful that is a smaller part of the character. (Has a more rigorous definition, but unimportant)\n\n3) \u90e8\u9996 or indexing components for a list or dictionary. The \u90e8\u4ef6 designated as special by the list/dictionary author. Modern Chinese dictionaries are indexed in two ways: alphabetically (for the equivalent pinyin) and by \u90e8\u9996. Only one per character.\n\n4) same as 2) just in the context of \u516d\u4e66, a way to categorise all \u6c49\u5b57 by how characters they were created. This is what the Outlier Linguistics\u00a0people are talking about, although they are taking a slightly different approach to its explanation. The phono-semantic type of character (\u5f62\u58f0\u5b57) is one of the six \u4e66 mentioned in 1).\n\n(Four of the six \u4e66\u00a0are important)"
       ],
       "links": [
         {
@@ -307,7 +338,7 @@
         },
         {
           "label": "this article",
-          "href": "https://www.outlier-linguistics.com/blogs/japanese/getting-radical-about-radicals"
+          "href": "https://www.outlier-linguistics.com/blogs/chinese/getting-radical-about-radicals"
         },
         {
           "label": "Outlier Linguistics",
@@ -329,7 +360,7 @@
         "Is listening more effective than reading"
       ],
       "responses": [
-        "Through your language learning journey, you should pretty much always be doing both. However, because reading allows you to slow down the language into manageable chunks, generally reading is where significant gains are made. Listening is often about learning to hear that which you already learned by reading. In the beginning, using tools like Language Reactor\u00a0can allow you to read subtitle files of shows. Read a line, then listen to it, then read the next, then listen to it. This can be a really great way to build a foundation in the language. Many people seem to find a \u2154 reading to \u2153 listening balance to be effective for themselves.\n\nEven while doing your listening, aiding comprehension via having Chinese subtitles on while listening is sometimes recommended. Once you have a 3 or 4 comprehension in a piece of content when listening with subs on, try challenging yourself more by removing the subs completely when working on listening."
+        "Throughout your language learning journey, you should pretty much always be doing both. However, because reading allows you to slow down the language into manageable chunks, generally reading is where significant gains are made. Listening is often about learning to hear that which you already learned by reading. In the beginning, using tools like Language Reactor\u00a0can allow you to read subtitle files of shows. Read a line, then listen to it, then read the next, then listen to it. This can be a really great way to build a foundation in the language. Many people seem to find a \u2154 reading to \u2153 listening balance to be effective for themselves.\n\nEven while doing your listening, aiding comprehension via having Chinese subtitles on while listening is sometimes recommended. Once you have a 3 or 4 comprehension in a piece of content when listening with subs on, try challenging yourself more by removing the subs completely when working on listening."
       ],
       "links": [
         {
@@ -383,7 +414,7 @@
         "Is SRS necessary"
       ],
       "responses": [
-        "Anki is the most recommended SRS software because of all of the add-ons available for it. It is also free and open source, and has cross-platform availability. Many of us feel that Anki is very helpful as it helps accelerate the learning process. However it is not a substitute for immersion. In fact several of our members who achieved fluency never used Anki, or did not start using it until they had already achieved fluency. The SRS is a supplement to immersion, don't get caught in the trap of thinking it's the main part. Reading is like a natural SRS and is far more important. The diagram below also illustrates how some members view the usefulness of Anki \u2014\u00a0as a beginner Anki will be helpful in learning foundational vocab, as you reach an intermediate level it becomes less useful and you\u2019ll be getting a ton of natural SRS from your immersion anyway (but you should still keep your Anki habit up, as doing your reviews should only take 10\u201320 minutes per day anyway), and once you reach an advanced/fluent level, it becomes useful in helping you learn rarer vocabulary you encounter in your immersion."
+        "Anki is the most recommended SRS software because of all of the add-ons available for it. It is also free and open source, and has cross-platform availability. Many of us feel that Anki is very helpful as it helps accelerate the learning process. However it is not a substitute for immersion. In fact several of our members who achieved fluency never used Anki, or did not start using it until they had already achieved fluency. The SRS is a supplement to immersion, don't get caught in the trap of thinking it's the main part. Reading is like a natural SRS and is far more important. The diagram below also illustrates how some members view the usefulness of Anki \u2014\u00a0as a beginner Anki will be helpful in learning foundational vocab, as you reach an intermediate level it becomes less useful and you\u2019ll be getting a ton of natural SRS from your immersion anyway (but you should still keep your Anki habit up, as doing your reviews should only take a relatively short amount of time to get through anyway), and once you reach an advanced/fluent level, it becomes useful in helping you learn rarer/more literary vocabulary you encounter in your immersion."
       ],
       "links": []
     },
@@ -416,12 +447,28 @@
         "Can I learn Chinese from music"
       ],
       "responses": [
-        "Any immersion is better than none. Furthermore, enjoying the language is essential. That being said, music lyrics are often very poetic, grammatically unnatural and virtually useless for pronunciation. This is a controversial issue among linguists and native speakers -- some believe that tone is not preserved in Mandarin songs (see pages 116\u2013118 of this dissertation), while others believe that it\u2019s optional or partially preserved in some songs. Because of this, it's not recommended as a high-quality source of immersion, although higher-level learners might be able to take better advantage of mining song lyrics."
+        "Any immersion is better than none. Furthermore, enjoying the language is essential. That being said, music lyrics are often very poetic, grammatically unnatural and potentially not as useful for pronunciation, depending on the genre (pop\u00a0is generally considered less useful for pronunciation than rap). Furthermore, the issue of tone in Mandarin music is a debated issue among linguists and native speakers -- some say that tone is not preserved in Mandarin songs (see pages 116\u2013118 of this dissertation), while others\u00a0say that it\u2019s optional or partially preserved in some songs, and is dependent on the song\u2019s composer, singer, or genre. Because of this, it's not recommended as a high-quality source of immersion, although higher-level learners might be able to take better advantage of mining song lyrics. Additionally, when you start outputting, rap might be helpful, although you\u2019d have to be careful of which songs you use. For example, Laoma Chris (a non-native who many natives say sounds near-native in Mandarin) says\u00a0that rap was useful for improving his pronunciation. You should probably start with shadowing and chorusing normal spoken material before considering the use of rap, though."
       ],
       "links": [
         {
+          "label": "pop",
+          "href": "https://www.youtube.com/watch?v%3D5auBrGa2cJk"
+        },
+        {
+          "label": "rap",
+          "href": "https://www.youtube.com/watch?v%3DPsbEbuJmeW4"
+        },
+        {
           "label": "this dissertation",
           "href": "https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0073581"
+        },
+        {
+          "label": "others",
+          "href": "https://www.youtube.com/watch?v%3DVbfqPVjzX7E"
+        },
+        {
+          "label": "says",
+          "href": "https://youtu.be/DtdrKgBUwpg?t%3D480"
         }
       ]
     },
@@ -556,6 +603,31 @@
         {
           "label": "Matt\u2019s video",
           "href": "https://www.youtube.com/watch?v%3D53qKsYxVhoM"
+        }
+      ]
+    },
+    {
+      "tag": "26. How do I type words that use \u00fc",
+      "patterns": [
+        "How do I type words that use \u00fc"
+      ],
+      "responses": [
+        "Use the \u201cv\u201d key in place of the \u00fc."
+      ],
+      "links": []
+    },
+    {
+      "tag": "27. What should I immerse with as a beginner",
+      "patterns": [
+        "What should I immerse with as a beginner"
+      ],
+      "responses": [
+        "It's all about finding a balance between content that interests you and content that you can comprehend. A lot of people start out with children's shows like Peppa Pig and then go into slice of life drama shows for teenagers/adults. Others find children's shows too boring and choose to dive straight into slice of life dramas, with the idea that even though it'll be harder than children's shows, at least it'll be more compelling content and hold your interest. You can also look into comprehensible input-based youtube channels (we list several in the resource doc) to go along with your immersion of native content. Also see this list of TV dramas: Refold Mandarin Beginner Recommendations."
+      ],
+      "links": [
+        {
+          "label": "Refold Mandarin Beginner Recommendations",
+          "href": "https://docs.google.com/spreadsheets/d/1Bcm1BmkOqNhB2phzhlmQ3Z1pG2oyrDB0rfF4v6ioBes/edit%23gid%3D0"
         }
       ]
     },
@@ -4298,6 +4370,20 @@
         "Sentence mining is not essential. Some people don't even ever use Anki, and others will use large premade decks. However, we very much recommend against this and highly recommend sentence mining for many reasons.\n\n1. Avoiding Anki altogether will likely make the process take much longer. Anki is great at priming things in your mind so that you can acquire them faster in immersion.\n\n2. Premade decks, in our experience, are vastly inferior to sentence mining. There are many reasons for this, but here is one main reason. When you sentence mine, you are actively taking words from the content you enjoy. This will increase the likelihood that you will come across those words again sooner rather than later, which also increases the rate at which you will acquire those words. This increases the rate at which your snowball grows (see related questions) and dramatically speeds up your progress. A short investment in learning the tools to sentence mine will pay dividends in the long run and save you a lot of time compared to relying on premade decks too much. (Most also find that sentence mining helps words stick better than finding even the same word in a premade deck because you understand the full context)"
       ],
       "Related-Q": "What is the snowball effect?  /  How do I sentence mine?",
+      "links": []
+    },
+    {
+      "tag": "Hanzi-HowDoILearnHanzi",
+      "patterns": [
+        "How do I learn hanzi",
+        "What is the best way to learn hanzi",
+        "How do I lean chinese characters",
+        "What is the best way to learn chinese characters"
+      ],
+      "responses": [
+        "Here's how you should learn Hanzi!"
+      ],
+      "Related-Q": "",
       "links": []
     },
     {
