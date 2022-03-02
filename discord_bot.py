@@ -54,7 +54,7 @@ class MyClient(discord.Client):
             return
 
         if message.channel.name in ['beginner-questions', 'methodology-qa', 'language-general', 'off-topic']:
-            if discord.utils.get(message.author.roles, name="Admin") is not None or discord.utils.get(user.roles, name="Mod") is not None or discord.utils.get(user.roles, name="Helper") is not None:
+            if discord.utils.get(message.author.roles, name="Admin") is not None or discord.utils.get(message.author.roles, name="Mod") is not None or discord.utils.get(message.author.roles, name="Helper") is not None:
                 if message.content.startswith('!bot'):
                     inp = message.content[5:]
                     response, embed = self.get_response_and_embed(inp)
