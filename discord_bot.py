@@ -1,7 +1,26 @@
 import argparse
 import discord
 import faqbot
+import json
 import random
+
+FAQ_URL = "https://docs.google.com/document/d/e/2PACX-1vTFW4FvTMIt9XqwbgsC9issVMdTR4OlrHasUbLlcjfp2k7hjLwIF-bNwLAWm62TIAvAR5yFKqk_T5Rg/pub#h.r2si0xqsfiif"
+
+parser = argparse.ArgumentParser(description='Discord FAQ bot for Refold Mandarin server')
+parser.add_argument('auth_key', type=str, help='the key to authenticate this discord bot with discord')
+parser.add_argument('--server_channel_file', type=str, help="a file containing a JSON dictionary of channel names and IDs for the server. useful channels to supply are 'beginner-questions', 'language-general', and 'methodology-qa'")
+args = parser.parse_args()
+
+SERVER_CHANNELS = {}
+if args.server_channel_file is not None:
+    try:
+        with open(args.server_channel_file) as channel_file:
+            channel_dict = json.load(channel_file)
+            for (k, v) in channel_dict.items():
+                SERVER_CHANNELS[k] = int(v)
+    except Exception:
+        print('Failed to read server channels file')
+        SERVER_CHANNELS = {}
 
 class MyClient(discord.Client):
     async def on_ready(self):
@@ -70,10 +89,17 @@ class MyClient(discord.Client):
             if response is not None:
                 await self.send_reply(response, embed, message)
             else:
-                await message.channel.send("I'm sorry. I have not been taught an answer to this question yet. Please ask a different way or try again later. I will hopefully be taught this soon.\n Until then try <#778822272081330177>, <#778820943459778570>, <#778821128436318218> or the most appropriate channel. Don't forget to tag your questions with !q to make them easy for mods and helpers to find.   ")
+                channel1 = 'beginner-questions'
+                channel2 = 'language-general'
+                channel3 = 'methodology-qa'
+                text = "I'm sorry. I have not been taught an answer to this question yet. Please ask a different way or check the FAQ document (link below) to see if your question is listed.\n I will hopefully be taught this soon. Until then try {}, {}, {} or the most appropriate channel. Don't forget to tag your questions with !q to make them easy for mods and helpers to find.".format(
+                    f"<#{SERVER_CHANNELS[channel1] if channel1 in SERVER_CHANNELS else channel1}>",
+                    f"<#{SERVER_CHANNELS[channel2] if channel2 in SERVER_CHANNELS else channel2}>",
+                    f"<#{SERVER_CHANNELS[channel3] if channel3 in SERVER_CHANNELS else channel3}>"
+                )
+                embed = discord.Embed(title="Additional Resources:")
+                embed.add_field(name="Check Out the Refold Mandarin FAQ!", value="[Refold Mandarin FAQ]({})".format(FAQ_URL))
+                await message.channel.send(text, embed=embed)
 
-parser = argparse.ArgumentParser(description='Discord FAQ bot for Refold Mandarin server')
-parser.add_argument('auth_key', type=str, help='the key to authenticate this discord bot with discord')
-args = parser.parse_args()
 client = MyClient()
 client.run(args.auth_key)
