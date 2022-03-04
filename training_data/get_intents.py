@@ -21,7 +21,10 @@ def get_full_response_and_links(header):
     links = []
     next_element = header.next_sibling
 
+    link_faq = False
     while next_element is not None and next_element.name != "h2":
+        if "FAQ" in next_element.text:
+            link_faq = True
         if next_element.text != '':
             paragraphs += next_element.text + '\n\n'
         for link in next_element.find_all('a'):
@@ -31,6 +34,8 @@ def get_full_response_and_links(header):
             links.append({'label': link.text, 'href': stripped_href})
         next_element = next_element.next_sibling
 
+    if link_faq is True:
+        links.insert(0, {'label': 'FAQ', 'href': URL})
     return paragraphs.strip(), links
 
 
