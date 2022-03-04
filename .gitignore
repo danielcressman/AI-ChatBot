@@ -2,3 +2,6 @@
 checkpoint
 model.tflearn.*
 *.pickle
+*.swp
+env
+__pycache__
